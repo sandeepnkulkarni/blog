@@ -5,5 +5,7 @@ permalink: /about/
 ---
 
 Sandeep Kulkarni
+
 Software Developer
+
 Place: Pune, India
