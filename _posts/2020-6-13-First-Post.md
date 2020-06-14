@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: My first post
 ---
 
-First post on my new blog.
+First post on my new github blog.
